@@ -25,7 +25,9 @@ additional_links:
 - title: iam.slys.dev
   icon: fas fa-globe
   url: https://iam.slys.dev
-
+- title: iam.slys.dev
+  icon: fas fa-globe
+  url: {{ page.pdf_url }}
 
 # About Section
 # about_title: About Me
