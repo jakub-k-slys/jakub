@@ -32,6 +32,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jakub.
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  {{ page.pdf_url }}
 
 content:
   - title: Professional experience # Title for the section
@@ -87,9 +88,6 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
