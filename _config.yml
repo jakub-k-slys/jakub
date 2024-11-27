@@ -90,6 +90,15 @@ content:
             Wroclaw University of Science and Technology is a leading Polish technical university, known for its research excellence and strong industry partnerships. It offers engineering and technology programs, preparing graduates to tackle global challenges through innovation and collaboration.
         description: | # this will include new lines to allow paragraphs
             My academic coursework covered a wide range of foundational and advanced topics, including Analog and Digital Circuit Design, PCB Design, and Signal Processing. I also focused on Embedded Systems, Programming in C/C++ and Java, SQL for database management, and advanced modeling techniques using MATLAB. Additionally, I gained expertise in FPGA design, Microcontroller programming, Electronics Metrology, LabView Visual Programming, and Sensor Technology, providing me with a comprehensive skill set in hardware and software integration.
+  - title: Languages, technologies & frameworks
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/jakub-k-slys)
+        [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/jakub-k-slys)
+        [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/jakub-k-slys)
+        [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jakub-k-slys)
+        [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/jakub-k-slys)
+
   - title: Other
     layout: text
     content: | # this will include new lines to allow paragraphs
