@@ -52,10 +52,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-            *Teachnology stack: JAVA, Cassandra, postgreSQL, Micronaut, Kubernetes*
-      - layout: left
-        sub_title: Principal Software Engineer
-        caption: October 2020 - March 2022
+            *Stack: JAVA, Cassandra, postgreSQL, Micronaut, Kubernetes*
       - layout: left
         title: Sabre Holdings
         link: sabre.com
@@ -66,6 +63,8 @@ content:
             Sabre Corporation is a global leader in travel technology, offering high-performance Global Distribution Systems and software solutions for airlines, hotels, and travel agencies. Its tools streamline reservations, revenue management, and operations, powering millions of travel transactions worldwide.
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+            *Stack: C++*
       - layout: left
         title: Nokia
         link: nokia.com
@@ -76,6 +75,8 @@ content:
             Nokia Networks is a global leader in telecommunications, specializing in LTE, LTE Advanced, and 5G technologies. The company delivers mobile and fixed network infrastructure, cloud solutions, and advanced connectivity tools, enabling high-speed, reliable, and secure networks.
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+            *Stack: C++*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,12 +89,14 @@ content:
             Wroclaw University of Science and Technology is a leading Polish technical university, known for its research excellence and strong industry partnerships. It offers engineering and technology programs, preparing graduates to tackle global challenges through innovation and collaboration.
         description: | # this will include new lines to allow paragraphs
             My academic coursework covered a wide range of foundational and advanced topics, including Analog and Digital Circuit Design, PCB Design, and Signal Processing. I also focused on Embedded Systems, Programming in C/C++ and Java, SQL for database management, and advanced modeling techniques using MATLAB. Additionally, I gained expertise in FPGA design, Microcontroller programming, Electronics Metrology, LabView Visual Programming, and Sensor Technology, providing me with a comprehensive skill set in hardware and software integration.
-  - title: A Little More About Me
+  - title: Other
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Tennis
+      - Cycling
+      - Trading Card Games
+      - Board Games
 
 # Footer
 footer_show_references: false
