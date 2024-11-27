@@ -30,9 +30,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jakub.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  A highly skilled software engineer with extensive experience in high-performance systems and big data. 
+  Expertise includes programming languages such as <mark>C++</mark>, <mark>JAVA</mark>, and <mark>Python</mark>. 
+  A strong emphasis is placed on clean and maintainable code, leveraging <mark>Test-Driven Development (TDD)</mark>, <mark>Behavior-Driven Development (BDD)</mark>, and <mark>Domain-Driven Design (DDD)</mark> to create robust and scalable solutions. 
+  Work often involves designing and implementing systems capable of processing large-scale data and delivering exceptional performance under heavy loads.  
 
+  Dedicated to continuous learning and the exploration of new tools and methodologies to push the boundaries of software engineering.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
