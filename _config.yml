@@ -84,7 +84,7 @@ content:
       - layout: left
         title: Wroclaw University of Science and Technology
         caption: 2005 - 2011
-        sub_title: Electronics Engineering, MSc Eng
+        sub_title: Electronics Engineering, \nMSc Eng
         quote: >
             Wroclaw University of Science and Technology is a leading Polish technical university, known for its research excellence and strong industry partnerships. It offers engineering and technology programs, preparing graduates to tackle global challenges through innovation and collaboration.
         description: | # this will include new lines to allow paragraphs
