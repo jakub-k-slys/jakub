@@ -94,7 +94,7 @@ content:
             * Delivered the Decision Data Store API layer for enhanced schema management and efficient database access.
             * Optimized data flow execution, achieving a 25% reduction in per-record processing time.
             * Implemented Import Jobs enhancements, reducing query volume and improving overall processing time.
-            * Developed the Cassandra provisioning service, streamlining database provisioning and enabling resource reuse, resulting in cost savings
+            * Developed the Cassandra provisioning service, streamlining database provisioning and enabling resource reuse, resulting in cost savings.
 
       - layout: left
         title: Sabre Holdings
@@ -108,7 +108,7 @@ content:
             Led the development of new features for the Sabre High Performance Itinerary Selector back-end engine, ensuring compliance with industry standards such as ATPCO. 
             Focused on enhancing performance, optimizing resource utilization, and delivering market-specific solutions to maintain competitive advantage.
             * Delivered the Shortcut Pricing Multiple Itinerary Pricer, achieving a 20% reduction in CPU usage.
-            * Implemented the Spanish Resident Fares discount mechanism, a critical feature for retaining Sabre’s presence in the Spanish market
+            * Implemented the Spanish Resident Fares discount mechanism, a critical feature for retaining Sabre’s presence in the Spanish market.
 
       - layout: left
         title: Nokia
@@ -124,7 +124,7 @@ content:
             * Delivered pre-3GPP Rel.12 Inter-eNodeB Carrier Aggregation, improving network interoperability and capacity.
             * Developed the first C-Plane performance measurement tests on Texas Instruments’ prototype board.
             * Implemented eNodeB commissioning over Bluetooth interface, simplifying the setup process.
-            * Delivered Earthquake Tsunami Warning System (ETWS) and Commercial Mobile Alert System (CMAS), critical for Asian market entry
+            * Delivered Earthquake Tsunami Warning System (ETWS) and Commercial Mobile Alert System (CMAS), critical for Asian market entry.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,11 +142,7 @@ content:
   - title: Other
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Tennis
-      - Cycling
-      - Trading Card Games
-      - Board Games
+        Outside of software engineering, I enjoy tennis, cycling, and engaging in strategic hobbies like trading card games and board games.
 
 # Footer
 footer_show_references: false
