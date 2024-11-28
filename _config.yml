@@ -129,7 +129,7 @@ content:
         quote: >
             Wroclaw University of Science and Technology is a leading Polish technical university, known for its research excellence and strong industry partnerships. It offers engineering and technology programs, preparing graduates to tackle global challenges through innovation and collaboration.
         description: | # this will include new lines to allow paragraphs
-            My academic coursework covered a wide range of foundational and advanced topics, including Analog and Digital Circuit Design, PCB Design, and Signal Processing. I also focused on Embedded Systems, Programming in C/C++ and Java, SQL for database management, and advanced modeling techniques using MATLAB. Additionally, I gained expertise in FPGA design, Microcontroller programming, Electronics Metrology, LabView Visual Programming, and Sensor Technology, providing me with a comprehensive skill set in hardware and software integration.
+            Academic coursework encompassed a broad range of foundational and advanced topics, including Analog and Digital Circuit Design, PCB Design, and Signal Processing. The focus extended to Embedded Systems, Programming in C/C++ and Java, SQL for database management, and advanced modeling techniques using MATLAB. Additional expertise was gained in FPGA design, Microcontroller programming, Electronics Metrology, LabView Visual Programming, and Sensor Technology, offering a comprehensive skill set in hardware and software integration.
 
   - title: Other
     layout: text
