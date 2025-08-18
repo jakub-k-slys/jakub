@@ -32,7 +32,7 @@ about_title: About
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   A highly skilled software engineer with extensive experience in high-performance systems and big data. 
-  Expertise includes programming languages such as C++, JAVA, and Python>. 
+  Expertise includes programming languages such as C++, JAVA, and Python. 
   
   A strong emphasis is placed on clean and maintainable code, leveraging Test-Driven Development, Behavior-Driven Development, and Domain-Driven Design to create robust and scalable solutions. 
   Work involves designing and implementing systems capable of processing large-scale data and delivering exceptional performance under heavy loads.  
